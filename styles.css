@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://revistavive.com/wp-content/uploads/2017/09/Que-el-trabajo-no-destruya-la-familia.jpg'); /* Reemplaza con el enlace correcto */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #c56a6a;
+}
+
+h1 {
+    color: #a89631;
+    text-shadow: 2px 2px 4px #000;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.card-title {
+    color: #343a40;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-check-label {
+    font-weight: bold;
+}
+
+.result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-weight: bold;
+}
